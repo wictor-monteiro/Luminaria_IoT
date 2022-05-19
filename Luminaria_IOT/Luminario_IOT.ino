@@ -17,7 +17,7 @@
 
  Dentro Blynk:
   6. Crie um novo projeto;
-  7. Com isso o Blynk gera automaticamente o Auth Token, o que você precisa alterar aqui depois;
+  7. Com isso o Blynk gera automaticamente o "Auth Token", o que você precisa alterar aqui depois;
   8. Adicione 3 botões e 3 botões de valores. Adicione os botões para V0,V4 e V9. Os de valores para V1, V2, e V3;
   9. Despois salve as configurações. É a hora de testar!
  *************************************************************/
