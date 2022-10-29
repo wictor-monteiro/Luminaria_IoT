@@ -45,8 +45,8 @@ float umidade,temperatura,sensacao; //Recebe os dados do sensor de temperatura
 int Seguranca,CorTemperatura,Lampada;
 //Configurações do Blynk
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "o m e n";
-char pass[] = "Belamentira45";
+char ssid[] = "***";
+char pass[] = "***";
 //Configurações do sensor de temperatura DHT11
 #define DHTPIN D1
 #define DHTTYPE DHT11
